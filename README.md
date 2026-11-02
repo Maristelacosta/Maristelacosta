@@ -1,16 +1,73 @@
-## Hi there 👋
+# Olá, eu sou Maristela Costa 👋
 
-<!--
-**Maristelacosta/Maristelacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bacharel em Sistemas de Informação
 
-Here are some ideas to get you started:
+🔐 MBA em Cibersegurança e Proteção de Dados (em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 MBA em Business Intelligence, Big Data e Analytics (em andamento)
+
+💻 Desenvolvedora e Analista de Sistemas em formação
+
+---
+
+## 🚀 Tecnologias
+
+- Python
+- Java
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Streamlit
+- Power BI
+
+---
+
+## 📂 Projetos em Destaque
+
+🖥️ Sistema de Gestão de Ativos de TI
+
+📞 Sistema de Chamados de TI
+
+📊 Painel de Análise de BI
+
+☕ Cadastro de Clientes Java
+
+🌐 Desenvolvimento Backend e APIs
+
+🔐 Scanner de IP
+
+---
+
+## 📚 Atualmente Estudando
+
+- Desenvolvimento Full Stack
+- Business Intelligence
+- Big Data
+- Cibersegurança
+- Proteção de Dados
+- Cloud Computing
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades para atuar como:
+
+- Analista de Sistemas Júnior
+- Analista de BI Júnior
+- Analista de Dados Júnior
+- Desenvolvedora Full Stack Júnior
+- Desenvolvedora Java Júnior
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: adicione seu link
+
+📧 E-mail: seu e-mail
+
+🌐 GitHub: github.com/Maristelacosta
