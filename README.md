@@ -6,7 +6,7 @@
 
 📊 MBA em Business Intelligence, Big Data e Analytics (em andamento)
 
-💻 Desenvolvedora e Analista de Sistemas em formação
+💻 Desenvolvedora e Analista de Sistemas em formação, com foco em Business Intelligence, Banco de Dados, Desenvolvimento de Software e Governança de TI.
 
 ---
 
@@ -23,6 +23,17 @@
 - Streamlit
 - Power BI
 
+## 🏆 Principais Competências
+
+- Análise de Sistemas
+- Engenharia de Software
+- Banco de Dados SQL
+- Business Intelligence (BI)
+- Análise de Dados
+- Desenvolvimento Backend
+- UML e Modelagem de Sistemas
+- Governança de TI
+- Cibersegurança
 ---
 
 ## 📂 Projetos em Destaque
@@ -62,9 +73,22 @@ Busco oportunidades para atuar como:
 - Desenvolvedora Full Stack Júnior
 - Desenvolvedora Java Júnior
 
----
+## 💼 Projetos em Destaque
 
-## 📫 Contato
+🖥️ Sistema de Gestão de Ativos de TI
+
+📞 Sistema de Chamados (Help Desk)
+
+📊 Painel de Análise de BI
+
+☕ Cadastro de Clientes em Java
+
+🌐 Desenvolvimento Backend e APIs
+
+🔐 Scanner de IP---
+
+
+##📫 Contato
 
 💼 LinkedIn: adicione seu link
 
