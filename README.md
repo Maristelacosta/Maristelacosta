@@ -27,6 +27,26 @@
 - Streamlit
 - Power BI
 
+## 💼 Projetos em Destaque
+
+### 🖥️ Sistema de Gestão de Ativos de TI
+Sistema de gerenciamento de ativos tecnológicos com modelagem UML, banco de dados relacional e documentação técnica.
+
+### 📞 Sistema de Chamados de TI (Help Desk)
+Plataforma para gerenciamento de chamados, acompanhamento de atendimentos e suporte técnico.
+
+### 📊 Painel de Análise de BI
+Dashboard interativo desenvolvido com Python, Pandas e Streamlit para monitoramento de indicadores estratégicos.
+
+### ☕ Cadastro de Clientes em Java
+Aplicação desenvolvida em Java com foco em programação orientada a objetos e gerenciamento de cadastros.
+
+### 🌐 Desenvolvimento Backend e APIs
+Projeto voltado ao desenvolvimento de APIs REST e integração entre sistemas.
+
+### 🔐 Scanner de IP
+Ferramenta para análise e identificação de dispositivos em rede, com foco em infraestrutura e segurança.
+
 ## 🏆 Principais Competências
 
 - Análise de Sistemas
