@@ -1,24 +1,36 @@
 # Olá, eu sou Maristela Costa 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
+
+## 👩‍💻 Sobre Mim
 
 🎓 **Bacharel em Sistemas de Informação**
 
-🔐 **MBA em Cibersegurança e Proteção de Dados** (em andamento)
+🔐 **MBA em Cibersegurança e Proteção de Dados**
+📅 Conclusão prevista: **27/04/2027**
 
-📊 **MBA em Business Intelligence, Big Data e Analytics** (em andamento)
+📊 **MBA em Business Intelligence, Big Data e Analytics (Ciência de Dados)**
+📅 Conclusão prevista: **01/01/2027**
 
-💻 Desenvolvedora e Analista de Sistemas em formação, com foco em Business Intelligence, Banco de Dados, Desenvolvimento de Software e Governança de TI.
+💻 Desenvolvedora e Analista de Sistemas em formação, com foco em Desenvolvimento de Software, Business Intelligence, Banco de Dados, Governança de TI e Segurança da Informação.
+
+🌎 Espanhol Fluente.
+
+🚀 Em constante aperfeiçoamento nas áreas de tecnologia, dados, desenvolvimento de software e cibersegurança.
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
-<p align="left">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -40,129 +52,128 @@
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Principais Competências
+## 🏆 Certificações
+
+✅ Gerência de Projetos de TI
+
+✅ Implantação de Governança de TI
+
+✅ Programação de Algoritmos Escaláveis
+
+✅ Programação para Internet
+
+✅ Programação para Dispositivos Móveis
+
+✅ Introduction to Cybersecurity (Cisco Networking Academy)
+
+✅ Introduction to IoT (Cisco Networking Academy)
+
+✅ Endereçamento de Redes e Solução de Problemas (Cisco Networking Academy)
+
+---
+
+## 💼 Projetos em Destaque
+
+### 🖥️ Sistema de Gestão de Ativos de TI
+
+Sistema para gerenciamento de ativos de TI com modelagem UML, banco de dados relacional e documentação técnica.
+
+**Tecnologias:** SQL • UML • Modelagem de Dados • Engenharia de Software
+
+---
+
+### 📞 Sistema de Chamados de TI (Help Desk)
+
+Plataforma para abertura, acompanhamento e gerenciamento de chamados técnicos.
+
+**Tecnologias:** SQL • UML • Banco de Dados • Regras de Negócio
+
+---
+
+### 📊 Painel de Análise de BI
+
+Dashboard interativo para análise de indicadores estratégicos utilizando Python, Pandas e Streamlit.
+
+**Tecnologias:** Python • Pandas • Streamlit • Business Intelligence
+
+---
+
+### ☕ Cadastro de Clientes em Java
+
+Aplicação desenvolvida em Java para gerenciamento de registros de clientes.
+
+**Tecnologias:** Java • Programação Orientada a Objetos • CRUD
+
+---
+
+### 🌐 Desenvolvimento Backend e APIs
+
+Projeto voltado ao desenvolvimento de APIs REST e integração de sistemas.
+
+**Tecnologias:** APIs REST • Backend • Integração de Sistemas
+
+---
+
+### 🔐 Scanner de IP
+
+Ferramenta para análise e identificação de dispositivos em rede.
+
+**Tecnologias:** Redes • Infraestrutura • Segurança da Informação
+
+---
+
+## 🏅 Principais Competências
 
 - Análise de Sistemas
-- Engenharia de Software
+- Desenvolvimento de Software
 - Banco de Dados SQL
-- Business Intelligence (BI)
-- Análise de Dados
+- Business Intelligence
+- Ciência de Dados
 - Desenvolvimento Backend
-- UML e Modelagem de Sistemas
 - Governança de TI
 - Cibersegurança
-
-💻 Desenvolvedora e Analista de Sistemas em formação, com foco em Business Intelligence, Banco de Dados, Desenvolvimento de Software e Governança de TI.
-
-🌎 Fluente em Espanhol e em constante desenvolvimento profissional nas áreas de tecnologia, dados e segurança da informação.
-
----
-
-# 💼 Projetos em Destaque
-
-## 🖥️ Sistema de Gestão de Ativos de TI
-
-Sistema de gestão de ativos de TI com modelagem UML, banco de dados relacional e documentação técnica.
-
-### Tecnologias
-- SQL
-- UML
-- Modelagem de Dados
-- Engenharia de Software
-
----
-
-## 📞 Sistema de Chamados de TI (Help Desk)
-
-Plataforma para gerenciamento de chamados, acompanhamento de atendimentos e suporte técnico.
-
-### Tecnologias
-- SQL
-- UML
-- Banco de Dados
-- Regras de Negócio
-
----
-
-## 📊 Painel de Análise de BI
-
-Dashboard interativo desenvolvido com Python, Pandas e Streamlit para monitoramento de indicadores estratégicos.
-
-### Tecnologias
-- Python
-- Pandas
-- Streamlit
-- Business Intelligence
-
----
-
-## ☕ Cadastro de Clientes em Java
-
-Aplicação desenvolvida em Java com foco em programação orientada a objetos e gerenciamento de cadastros.
-
-### Tecnologias
-- Java
-- Orientação a Objetos
-- CRUD
-
----
-
-## 🌐 Desenvolvimento Backend e APIs
-
-Projeto voltado ao desenvolvimento de APIs REST, integração entre sistemas e construção de soluções backend.
-
-### Tecnologias
+- UML e Modelagem de Sistemas
 - APIs REST
-- Backend
-- Integração de Sistemas
 
 ---
 
-## 🔐 Scanner de IP
+## 📚 Atualmente Estudando
 
-Ferramenta para análise e identificação de dispositivos em rede, com foco em infraestrutura e segurança.
-
-### Tecnologias
-- Redes
-- Infraestrutura
-- Segurança da Informação
-
----
-
-# 📚 Atualmenteull Stack
-- Business Intelligence
-- Big Data
 - Cibersegurança
 - Proteção de Dados
+- Business Intelligence
+- Big Data
+- Ciência de Dados
 - Cloud Computing
 - Engenharia de Software
 - Governança de TI
+- Inteligência Artificial
 
 ---
 
-# 🎯 Objetivo Profissional
+## 🎯 Objetivo Profissional
 
-Busco oportunidades para atuar nas áreas de:
+Busco oportunidades para atuar como:
 
 - Analista de Sistemas Júnior
-- Analista de BI Júnior
 - Analista de Dados Júnior
+- Analista de BI Júnior
 - Desenvolvedora Backend Júnior
 - Desenvolvedora Full Stack Júnior
 - Desenvolvedora Java Júnior
-- Governança de TI
-- Cibersegurança
+- Analista de Governança de TI
+- Analista de Cibersegurança Júnior
 
 ---
 
-# 📈 Áreas de Interesse
+## 📈 Áreas de Interesse
 
 - Business Intelligence
-- Análise de Dados
+- Ciência de Dados
 - Banco de Dados
 - Engenharia de Software
 - Desenvolvimento Web
@@ -170,21 +181,33 @@ Busco oportunidades para atuar nas áreas de:
 - Governança de TI
 - Segurança da Informação
 - Cloud Computing
+- Inteligência Artificial
 
 ---
 
-# 📫 Contato
+## 🌎 Idiomas
 
-💼 LinkedIn: Adicione seu link do LinkedIn
+🇧🇷 Português - Nativo
 
-📧 E-mail: maristelagatinhapreta@gmail.com
-
-🌐 GitHub: https://github.com/Maristelacosta
+🇪🇸 Espanhol - Fluente
 
 ---
 
-# ⭐ Sobre Mim
+## 📫 Contato
 
-Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Busco construir soluções que unam desenvolvimento de software, análise de dados e governança de TI, contribuindo para a geração de valor e apoio à tomada de decisões estratégicas.
+💼 LinkedIn:
+https://www.linkedin.com/in/maristela-costa-49b348216/
+
+📧 E-mail:
+maristelagatinhapreta@gmail.com
+
+🌐 GitHub:
+https://github.com/Maristelacosta
+
+---
+
+## ⭐ Sobre Mim
+
+Sou apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Busco desenvolver soluções que integrem desenvolvimento de software, análise de dados, governança de TI e segurança da informação, contribuindo para a inovação e geração de valor nas organizações.
 
 🚀 Sempre aprendendo, evoluindo e desenvolvendo novos projetos.
