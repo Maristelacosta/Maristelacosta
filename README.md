@@ -1,5 +1,9 @@
 # Olá, eu sou Maristela Costa 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight)
+
 🎓 Bacharel em Sistemas de Informação
 
 🔐 MBA em Cibersegurança e Proteção de Dados (em andamento)
