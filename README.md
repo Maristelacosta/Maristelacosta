@@ -1,10 +1,12 @@
 # Olá, eu sou Maristela Costa 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight)
+![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight)
 
-🎓 Bacharel em Sistemas de Informação
+---
+
+🎓 Bacharelado em Sistemas de Informação
 
 🔐 MBA em Cibersegurança e Proteção de Dados (em andamento)
 
@@ -14,7 +16,7 @@
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 - Python
 - Java
@@ -27,27 +29,9 @@
 - Streamlit
 - Power BI
 
-## 💼 Projetos em Destaque
+---
 
-### 🖥️ Sistema de Gestão de Ativos de TI
-Sistema de gerenciamento de ativos tecnológicos com modelagem UML, banco de dados relacional e documentação técnica.
-
-### 📞 Sistema de Chamados de TI (Help Desk)
-Plataforma para gerenciamento de chamados, acompanhamento de atendimentos e suporte técnico.
-
-### 📊 Painel de Análise de BI
-Dashboard interativo desenvolvido com Python, Pandas e Streamlit para monitoramento de indicadores estratégicos.
-
-### ☕ Cadastro de Clientes em Java
-Aplicação desenvolvida em Java com foco em programação orientada a objetos e gerenciamento de cadastros.
-
-### 🌐 Desenvolvimento Backend e APIs
-Projeto voltado ao desenvolvimento de APIs REST e integração entre sistemas.
-
-### 🔐 Scanner de IP
-Ferramenta para análise e identificação de dispositivos em rede, com foco em infraestrutura e segurança.
-
-## 🏆 Principais Competências
+# 🏆 Principais Competências
 
 - Análise de Sistemas
 - Engenharia de Software
@@ -58,25 +42,48 @@ Ferramenta para análise e identificação de dispositivos em rede, com foco em 
 - UML e Modelagem de Sistemas
 - Governança de TI
 - Cibersegurança
----
-
-## 📂 Projetos em Destaque
-
-🖥️ Sistema de Gestão de Ativos de TI
-
-📞 Sistema de Chamados de TI
-
-📊 Painel de Análise de BI
-
-☕ Cadastro de Clientes Java
-
-🌐 Desenvolvimento Backend e APIs
-
-🔐 Scanner de IP
 
 ---
 
-## 📚 Atualmente Estudando
+# 💼 Projetos em Destaque
+
+## 🖥️ Sistema de Gestão de Ativos de TI
+
+Sistema de gerenciamento de ativos tecnológicos com modelagem UML, banco de dados relacional e documentação técnica.
+
+---
+
+## 📞 Sistema de Chamados de TI (Help Desk)
+
+Plataforma para gerenciamento de chamados, acompanhamento de atendimentos e suporte técnico.
+
+---
+
+## 📊 Painel de Análise de BI
+
+Dashboard interativo desenvolvido com Python, Pandas e Streamlit para monitoramento de indicadores estratégicos.
+
+---
+
+## ☕ Cadastro de Clientes em Java
+
+Aplicação desenvolvida em Java com foco em programação orientada a objetos e gerenciamento de cadastros.
+
+---
+
+## 🌐 Desenvolvimento Backend e APIs
+
+Projeto voltado ao desenvolvimento de APIs REST, integração entre sistemas e construção de soluções backend.
+
+---
+
+## 🔐 Scanner de IP
+
+Ferramenta para análise e identificação de dispositivos em rede, com foco em infraestrutura e segurança.
+
+---
+
+# 📚 Atualmente Estudando
 
 - Desenvolvimento Full Stack
 - Business Intelligence
@@ -87,35 +94,43 @@ Ferramenta para análise e identificação de dispositivos em rede, com foco em 
 
 ---
 
-## 🎯 Objetivo Profissional
+# 🎯 Objetivo Profissional
 
-Busco oportunidades para atuar como:
+Busco oportunidades para atuar nas áreas de:
 
 - Analista de Sistemas Júnior
 - Analista de BI Júnior
 - Analista de Dados Júnior
+- Desenvolvedora Backend Júnior
 - Desenvolvedora Full Stack Júnior
 - Desenvolvedora Java Júnior
+- Governança de TI
+- Cibersegurança
 
-## 💼 Projetos em Destaque
+---
 
-🖥️ Sistema de Gestão de Ativos de TI
+# 📈 Áreas de Interesse
 
-📞 Sistema de Chamados (Help Desk)
+- Business Intelligence
+- Análise de Dados
+- Banco de Dados
+- Engenharia de Software
+- Desenvolvimento Web
+- APIs REST
+- Governança de TI
+- Segurança da Informação
+- Cloud Computing
 
-📊 Painel de Análise de BI
+---
 
-☕ Cadastro de Clientes em Java
+# 📫 Contato
 
-🌐 Desenvolvimento Backend e APIs
+💼 LinkedIn: Adicione seu perfil do LinkedIn
 
-🔐 Scanner de IP---
+📧 E-mail: maristelagatinhapreta@gmail.com
 
+🌐 GitHub: https://github.com/Maristelacosta
 
-##📫 Contato
+---
 
-💼 LinkedIn: adicione seu link
-
-📧 E-mail: seu e-mail
-
-🌐 GitHub: github.com/Maristelacosta
+⭐ Sempre buscando desenvolver novas habilidades, criar soluções tecnológicas e transformar dados em informações estratégicas para negócios.
