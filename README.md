@@ -66,7 +66,7 @@
 
 ## 🖥️ Sistema de Gestão de Ativos de TI
 
-Sistema de gerenciamento de ativos tecnológicos com modelagem UML, banco de dados relacional e documentação técnica.
+Sistema de gestão de ativos de TI com modelagem UML, banco de dados relacional e documentação técnica.
 
 ### Tecnologias
 - SQL
