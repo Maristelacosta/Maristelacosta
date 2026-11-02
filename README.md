@@ -56,7 +56,9 @@
 - Governança de TI
 - Cibersegurança
 
----
+💻 Desenvolvedora e Analista de Sistemas em formação, com foco em Business Intelligence, Banco de Dados, Desenvolvimento de Software e Governança de TI.
+
+🌎 Fluente em Espanhol e em constante desenvolvimento profissional nas áreas de tecnologia, dados e segurança da informação.---
 
 # 💼 Projetos em Destaque
 
