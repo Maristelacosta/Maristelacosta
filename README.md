@@ -100,7 +100,7 @@ Análise de indicadores de segurança e monitoramento de informações para apoi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maristela_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maristelaaparecidacosta/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-maristelagatinhapreta--jpg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maristelagatinhapreta-jpg)
+[![GitHub](https://img.shields.io/badge/GitHub-maristelagatinhapreta--jpg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maristelacosta-jpg)
 
 📧 maristelagatinhapreta@gmail.com
 
