@@ -1,170 +1,70 @@
-<div align="center">
-
 # 👋 Olá, eu sou Maristela Costa
 
-### Information Systems • Business Intelligence • Data Analytics • Cybersecurity
+## 📊 Analista de Dados Jr. | Business Intelligence | SQL | Power BI
 
-Graduada em Sistemas de Informação | MBA em Business Intelligence, Big Data e Analytics | MBA em Cibersegurança e Proteção de Dados
+Graduada em **Sistemas de Informação**, com MBA em andamento em **Business Intelligence, Big Data e Analytics** e **Cibersegurança e Proteção de Dados**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maristela-costa-49b348216/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maristelacosta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maristelagatinhapreta@gmail.com)
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+Tenho experiência com análise de dados, criação de dashboards, SQL, Power BI e melhoria de processos, transformando dados em informações estratégicas para apoiar a tomada de decisões.
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou bacharela em **Sistemas de Informação** e atualmente curso:
-
-- 🎓 MBA em Business Intelligence, Big Data e Analytics
-- 🎓 MBA em Cibersegurança e Proteção de Dados
-
-Tenho interesse em:
-
-- Business Intelligence
-- Análise de Dados
-- Desenvolvimento de Software
-- Banco de Dados
-- Governança de TI
-- Segurança da Informação
-- Inteligência Artificial
+- 🎓 Bacharel em Sistemas de Informação
+- 📈 Foco em Business Intelligence e Analytics
+- 💾 SQL, Power BI, Excel e Banco de Dados
+- 🐍 Python e Java
+- 📍 Curitiba - PR
+- 🌱 Aprendizado contínuo em Dados e Tecnologia
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tecnologias
 
-### Linguagens
-
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Dados & Business Intelligence
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Analytics](https://img.shields.io/badge/Analytics-16A34A?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-2563EB?style=for-the-badge)
-
-### Infraestrutura & Segurança
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge)
-![LGPD](https://img.shields.io/badge/LGPD-1D4ED8?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Ferramentas
-
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Projetos em Destaque
+## 📈 Destaques
 
-### 📊 Dashboard BI - Indicadores Sicredi
-Dashboard para monitoramento de indicadores estratégicos e apoio à tomada de decisão.
+### Redução de Tempo de Produção
 
-**Tecnologias:** Business Intelligence • Analytics • KPIs
+Participei de um projeto de otimização da produção de semicases.
 
----
+✅ Redução do prazo de produção de **10 para 5 dias**
 
-### 📈 Painel de Análise de BI
-Dashboard para consolidação e análise de dados gerenciais.
+✅ Aumento da capacidade produtiva
 
-**Tecnologias:** Python • BI • Analytics
+✅ Controle de custos e indicadores operacionais
 
----
-
-### 🛒 Painel Omnicanal para Comércio Eletrônico
-Projeto para monitoramento de métricas e indicadores de e-commerce.
-
-**Tecnologias:** Python • Dados • Dashboards
+✅ Melhoria da eficiência do processo produtivo
 
 ---
 
-### 🎫 Sistema de Gestão de Chamados
-Sistema para abertura, gerenciamento e acompanhamento de chamados técnicos.
+## 📂 Projetos
 
-**Competências:** Banco de Dados • Análise de Sistemas
+### 📊 Supply Chain Ecommerce Analytics
+Análise de indicadores logísticos e operacionais.
 
----
+### 📈 GDP Dashboard
+Dashboard de indicadores econômicos em Power BI.
 
-### 🤖 DevTrack AI
-Aplicação desenvolvida para organização e acompanhamento de atividades.
-
-**Tecnologias:** TypeScript • GitHub
-
----
-
-### 🔐 NetGuardian
-Projeto de monitoramento de redes e análise de dispositivos.
-
-**Competências:** Redes • Infraestrutura • Segurança
-
----
-
-## 🎓 Formação
-
-- Bacharelado em Sistemas de Informação
-- MBA em Business Intelligence, Big Data e Analytics
-- MBA em Cibersegurança e Proteção de Dados
-
----
-
-## 📜 Certificações
-
-### Microsoft
-
-- AI-900 Azure AI Fundamentals
-- Microsoft Power BI
-
-### Cisco Networking Academy
-
-- Introduction to Cybersecurity
-- Networking Basics
-- Network Defense
-- Introduction to IoT
-- Network Addressing and Basic Troubleshooting
-
-### Governança e Gestão
-
-- Governança de TI
-- Gerência de Projetos de TI
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco oportunidades nas áreas de:
-
-- Analista de Sistemas
-- Business Intelligence
-- Análise de Dados
-- Operações de TI
-- Desenvolvimento Back-End
-- Cibersegurança
+### 🤖 Business Intelligence AI Platform
+Utilização de dados para y BI Analytics
+Análise e monitoramento de indicadores de segurança.
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail**  
-maristelagatinhapreta@gmail.com
+💼 LinkedIn: www.linkedin.com/in/maristelaaparecidacosta/
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/maristela-costa-49b348216/
-nology • Data • BI • Analytics • Cybersecurity
+💻 GitHub: github.com/Maristelacosta-jpg
 
-</div>
+📧 maristelagatinhapreta@gmail.com
+
+📍 Curitiba - PR
