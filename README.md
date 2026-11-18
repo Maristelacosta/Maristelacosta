@@ -1,64 +1,48 @@
+<p align="center">
+  <img src="./assets/banner-data-analytics.png" alt="Banner Data Analytics" width="100%">
+</p>
+
 # 👋 Olá, eu sou Maristela Costa
 
 ### 📊 Analista de Dados Jr. | Business Intelligence | SQL | Power BI
 
-Graduada em **Sistemas de Informação**, com MBA em andamento em **Business Intelligence, Big Data e Analytics** e MBA em **Cibersegurança e Proteção de Dados**.
+Graduada em **Sistemas de Informação**, com MBA em andamento em **Business Intelligence, Big Data e Analytics** e **Cibersegurança e Proteção de Dados**.
 
-💡 Apaixonada por transformar dados em informações estratégicas para apoiar a tomada de decisões, otimizar processos e gerar valor para os negócios.
+💡 Transformando dados em informações estratégicas para apoiar a tomada de decisões e gerar resultados.
 
 ---
 
 ## 🚀 Sobre Mim
 
-🎓 Bacharel em Sistemas de Informação
-
-📊 Business Intelligence, Data Analytics e Visualização de Dados
-
-📈 Power BI, SQL, Excel e Banco de Dados
-
-🐍 Python para automação e análise de dados
-
-☕ Java e Desenvolvimento de Sistemas
-
-🔐 Segurança da Informação e LGPD
-
-📍 Curitiba - PR
+- 🎓 Bacharel em Sistemas de Informação
+- 📊 Business Intelligence e Data Analytics
+- 📈 Power BI, SQL e Excel
+- 🐍 Python para análise e automação
+- ☕ Java e Desenvolvimento de Sistemas
+- 🔐 Segurança da Informação e LGPD
+- 📍 Curitiba - PR
 
 ---
 
-## 📊 Data & Analytics
+## 🛠️ Tecnologias
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Analytics](https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
----
-
-## 💻 Desenvolvimento
-
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📈 Destaque Profissional
 
-### Melhoria de Processo Produtivo
+### Redução de 50% no Tempo de Produção
 
-Participei de um projeto de otimização da produção de semicases, realizando o acompanhamento de custos, produtividade e indicadores operacionais.
+Participei de um projeto de melhoria de processos na produção de semicases, realizando análise de custos, produtividade e indicadores operacionais.
 
-✅ Redução do tempo de produção de **10 para 5 dias**
+✅ Redução do prazo de produção de **10 para 5 dias**
 
 ✅ Aumento da capacidade produtiva
 
@@ -66,47 +50,119 @@ Participei de um projeto de otimização da produção de semicases, realizando 
 
 ✅ Melhoria da eficiência operacional
 
-✅ Apoio à tomada de decisão baseada em dados
+✅ Decisões orientadas por dados
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-### 📊 Painel de BI-Analytics
-Dashboard para acompanhamento de indicadores, métricas de desempenho e apoio à tomada de decisão.
+## 📊 Painel de BI-Analytics
 
-### 🤖 Plataforma de Inteligência de Negócios e IA
-Projeto voltado para Business Intelligence, análise de dados e geração de insights estratégicos.
+<p align="center">
+  <img src="./assets/painel-bi-analytics.png" width="900">
+</p>
 
-### 📈 Análise de Vendas com R
-Análise exploratória de dados de vendas, métricas comerciais e visualização de indicadores.
+Dashboard para acompanhamento de KPIs, indicadores e métricas estratégicas.
 
-### 📦 Projeto de Inventário TI
-Sistema para gestão e controle de ativos de tecnologia e inventário.
+### Tecnologias
+- Power BI
+- SQL
+- Excel
+- Analytics
 
-### 💻 TI Helpdesk System
-Sistema de gerenciamento de chamados e suporte técnico.
+---
 
-### 🔐 Scanner de IP
-Ferramenta para análise e monitoramento de redes.
+## 🤖 Plataforma de Inteligência de Negócios e IA
+
+<p align="center">
+  <img src="./assets/plataforma-bi-ia.png" width="900">
+</p>
+
+Projeto voltado para Business Intelligence e Inteligência Artificial aplicada à análise de dados.
+
+### Tecnologias
+- Python
+- SQL
+- IA
+- Analytics
+
+---
+
+## 📈 Análise de Vendas com R
+
+<p align="center">
+  <img src="./assets/analise-vendas-r.png" width="900">
+</p>
+
+Análise exploratória de dados para acompanhamento de vendas e desempenho comercial.
+
+### Tecnologias
+- R
+- Estatística
+- Data Analytics
+
+---
+
+## 📦 Projeto de Inventário TI
+
+<p align="center">
+  <img src="./assets/inventario-ti.png" width="900">
+</p>
+
+Sistema para controle e gerenciamento de ativos de tecnologia.
+
+### Tecnologias
+- Java
+- SQL
+- Banco de Dados
+
+---
+
+## 💻 TI Helpdesk System
+
+<p align="center">
+  <img src="./assets/ti-helpdesk-system.png" width="900">
+</p>
+
+Sistema para abertura, gestão e acompanhamento de chamados técnicos.
+
+### Tecnologias
+- Java
+- MySQL
+- Sistemas Web
+
+---
+
+## 🔐 Scanner de IP
+
+<p align="center">
+  <img src="./assets/scanner-ip.png" width="900">
+</p>
+
+Ferramenta para monitoramento de rede e análise de endereços IP.
+
+### Tecnologias
+- Python
+- Redes
+- Segurança da Informação
 
 ---
 
 ## 🎓 Formação
 
 - Bacharelado em Sistemas de Informação
-- MBA em Business Intelligence, Big Data e Analytics (Em andamento)
-- MBA em Cibersegurança e Proteção de Dados (Em andamento)
+- MBA em Business Intelligence, Big Data e Analytics (em andamento)
+- MBA em Cibersegurança e Proteção de Dados (em andamento)
 
 ---
 
 ## 📚 Certificações
 
 - Gerência de Projetos de TI
-- Implantação de Governança de TI
+- Governança de TI
 - Programação para Internet
 - Programação Mobile Android e iOS
-- Programação de Algoritmos Escaláveis
+- Algoritmos Escaláveis
 
 ---
 
@@ -116,18 +172,10 @@ Ferramenta para análise e monitoramento de redes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Maristelacosta--jpg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maristelacosta-jpg)
 
-📧 maristelagatinhapreta@gmail.com
+📧 maristelagatinhapreta@gmailpi?username=Maristelacosta-jpg&show_icons=true&theme=tokyonight
 
-📍 Curitiba - PR
-
----
-
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maristelacosta-jpg&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta-jpg&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta-jpg&layout=compact&theme=tokyonight
 
 ---
 
-⭐ Sempre buscando novos desafios nas áreas de Dados, Business Intelligence, Analytics e Tecnologia.
+⭐ Sempre em busca de novos desafios nas áreas de Dados, Business Intelligence, Analytics e Tecnologia.
