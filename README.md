@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou Maristela Costa
+<p align="center">
+  <img src="banner-data-analytics.png" alt="Maristela Costa - Data Analytics" width="100%">
+   
+
+</p># 👋 Olá, eu sou Maristela Costa
 
 ## 📊 Analista de Dados Jr. | Business Intelligence | SQL | Power BI
 
