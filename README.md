@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner-data-analytics.png" alt="Maristela Costa - Data Analytics" width="100%">
-   
+
 
 </p># 👋 Olá, eu sou Maristela Costa
 
