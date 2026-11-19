@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-data-analytics.png" alt="Maristela Costa - Data Analytics Banner" width="100%">
+  <img src="./assets/banner-data-analytics.svg" alt="Maristela Costa - Data Analytics Banner" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou Maristela Costa 👋</h1>
@@ -52,21 +52,13 @@ Participei de um projeto de otimização da produção de semicases, realizando 
 
 ### 📊 Painel BI Analytics
 
-<p align="center">
-  <img src="./assets/painel-bi-analytics.png" alt="Painel BI Analytics" width="900">
-</p>
-
-Dashboard para acompanhamento de indicadores estratégicos, métricas operacionais e apoio à tomada de decisão.
+Projeto voltado ao acompanhamento de indicadores estratégicos, métricas operacionais e apoio à tomada de decisão.
 
 **Tecnologias:** Power BI • SQL • Excel • Analytics
 
 ---
 
 ### 🤖 Plataforma de Inteligência de Negócios e IA
-
-<p align="center">
-  <img src="./assets/plataforma-bi-ia.png" alt="Plataforma BI e IA" width="900">
-</p>
 
 Projeto voltado para Business Intelligence, análise de dados e geração de insights estratégicos.
 
@@ -76,10 +68,6 @@ Projeto voltado para Business Intelligence, análise de dados e geração de ins
 
 ### 📈 Análise de Vendas com R
 
-<p align="center">
-  <img src="./assets/analise-vendas-r.png" alt="Análise de Vendas com R" width="900">
-</p>
-
 Projeto de análise exploratória de dados para acompanhamento de vendas, faturamento e desempenho comercial.
 
 **Tecnologias:** R • Estatística • Data Analytics
@@ -87,10 +75,6 @@ Projeto de análise exploratória de dados para acompanhamento de vendas, fatura
 ---
 
 ### 📦 Projeto de Inventário TI
-
-<p align="center">
-  <img src="./assets/inventario-ti.png" alt="Projeto Inventário TI" width="900">
-</p>
 
 Sistema para controle e gerenciamento de ativos de tecnologia.
 
@@ -100,10 +84,6 @@ Sistema para controle e gerenciamento de ativos de tecnologia.
 
 ### 💻 TI Helpdesk System
 
-<p align="center">
-  <img src="./assets/ti-helpdesk-system.png" alt="TI Helpdesk System" width="900">
-</p>
-
 Sistema para abertura, acompanhamento e gestão de chamados técnicos.
 
 **Tecnologias:** Java • MySQL • Sistemas Web
@@ -111,10 +91,6 @@ Sistema para abertura, acompanhamento e gestão de chamados técnicos.
 ---
 
 ### 🔐 Scanner de IP
-
-<p align="center">
-  <img src="./assets/scanner-ip.png" alt="Scanner de IP" width="900">
-</p>
 
 Ferramenta para análise e monitoramento de redes.
 
@@ -162,8 +138,8 @@ Ferramenta para análise e monitoramento de redes.
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maristelacosta-jpg&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta-jpg&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -175,8 +151,8 @@ Ferramenta para análise e monitoramento de redes.
 <img src="https://img.shields.io/badge/LinkedIn-Maristela_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Maristelacosta-jpg" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Maristelacosta--jpg-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Maristelacosta" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Maristelacosta-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 

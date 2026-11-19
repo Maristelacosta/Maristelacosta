@@ -1,5 +1,5 @@
-assets/painel-bi-analytics.png
-assets/plataforma-bi-ia.png
-assets/analise-vendas-r.png
-assets/helpdesk-system.png
-assets/scanner-ip.png
+# Assets
+
+Arquivos de imagens e banners do perfil.
+
+- `banner-data-analytics.svg` — banner principal

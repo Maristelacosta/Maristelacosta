@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="1600" height="500" fill="#F7FAFF"/>
+  <rect x="0" y="0" width="480" height="500" fill="#083A78"/>
+  <circle cx="240" cy="210" r="145" fill="#DCEBFF"/>
+  <circle cx="240" cy="210" r="122" fill="#6FA9DC"/>
+  <text x="240" y="190" fill="#083A78" font-family="Arial, sans-serif" font-size="70" font-weight="700" text-anchor="middle">MC</text>
+  <text x="240" y="265" fill="#083A78" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">DADOS • RESULTADOS</text>
+  <rect x="480" y="0" width="1120" height="500" fill="#F7FAFF"/>
+  <text x="560" y="145" fill="#083A78" font-family="Arial, sans-serif" font-size="82" font-weight="700">Maristela Costa</text>
+  <text x="560" y="205" fill="#1E3555" font-family="Arial, sans-serif" font-size="34" letter-spacing="8">ANALISTA DE SISTEMAS JÚNIOR</text>
+  <text x="560" y="265" fill="#1E3555" font-family="Arial, sans-serif" font-size="31">Desenvolvedora Full Stack | Dados | BI</text>
+  <line x1="560" y1="310" x2="1450" y2="310" stroke="#6FA9DC" stroke-width="3"/>
+  <text x="560" y="360" fill="#083A78" font-family="Arial, sans-serif" font-size="28" font-weight="700">SQL  •  Python  •  Power BI  •  Excel  •  Java</text>
+  <text x="560" y="420" fill="#1E3555" font-family="Arial, sans-serif" font-size="26">Transformando dados em insights e decisões estratégicas</text>
+</svg>
