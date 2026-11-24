@@ -1,184 +1,86 @@
 # 👋 Olá, eu sou Maristela Costa
 
-## 📊 Analista de Dados | Business Intelligence | Power BI | SQL | Python
+📊 Analista de Dados | Business Intelligence
 
-Graduada em **Sistemas de Informação** e apaixonada por tecnologia, análise de dados e inteligência empresarial.
+🎓 Bacharel em Sistemas de Informação
 
-Meu foco é transformar dados em informações estratégicas por meio de dashboards, análises, automações e soluções orientadas a dados.
-
----
-
-## 🎯 Sobre Mim
-
-📊 Analista de Dados e Business Intelligence
-
-🎓 Graduada em Sistemas de Informação
-
-📚 MBA em Business Intelligence, Big Data & Analytics (em andamento)
-
-🔐 MBA em Cibersegurança e Proteção de Dados (em andamento)
-
-💡 Desenvolvendo soluções para transformar dados em decisões estratégicas.
-
-🚀 Mais de 40 projetos publicados no GitHub envolvendo BI, Analytics, Python, Power BI, SQL e Visualização de Dados.
+💡 Apaixonada por transformar dados em insights estratégicos para apoiar decisões e gerar resultados.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🚀 Sobre mim
 
-### 📈 Dados & Analytics
+Sou Bacharel em Sistemas de Informação com foco em Análise de Dados, Business Intelligence e Desenvolvimento de Soluções Tecnológicas.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Possuo experiência prática na criação de dashboards, análise de indicadores, automação de processos e desenvolvimento de aplicações utilizando Python, SQL, Power BI e APIs REST.
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Atualmente, estou me especializando em Business Intelligence, Big Data, Analytics, Cibersegurança e Proteção de Dados.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+Meu objetivo é transformar dados complexos em informações claras, gerando valor para empresas por meio de indicadores, visualizações e soluções inteligentes.
 
 ---
 
-### 💻 Programação
+## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Dados e BI
+- Power BI
+- SQL
+- Python
+- Pandas
+- Streamlit
+- Business Intelligence
+- Data Analytics
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Desenvolvimento
+- Java
+- JavaScript
+- APIs REST
+- Git e GitHub
 
----
-
-### 🗄️ Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-### ⚙️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-# 🚀 Projetos em Destaque
-
-## 📊 Plataforma de Inteligência de Negócios e IA
-
-Projeto focado em Business Intelligence, Analytics e Inteligência Artificial para geração de insights estratégicos e apoio à tomada de decisão.
-
----
-
-## 📈 Dashboard de Vendas Power BI
-
-Dashboard interativo para acompanhamento de:
-
-- Receita
-- Faturamento
-- Ticket Médio
-- Performance Comercial
-- Indicadores de Negócio
-
----
-
-## 💰 Dashboard Financeiro em R
-
-Projeto de análise financeira com foco em:
-
-- Indicadores Financeiros
-- Fluxo de Caixa
-- Visualização de Dados
-- Relatórios Gerenciais
-
----
-
-## 🌎 Painel GDP
-
-Dashboard para análise de indicadores econômicos, tendências globais e cenários de mercado.
-
----
-
-## 🚚 Supply Chain Analytics
-
-Análise de dados aplicada à cadeia de suprimentos para monitoramento de:
-
-- Logística
-- Operações
-- Distribuição
-- Eficiência Operacional
-
----
-
-## 🛡️ Segurança BI
-
-Análise de indicadores relacionados a:
-
+### Governança e Segurança
+- LGPD
+- Governança de TI
 - Cibersegurança
-- Governança de Dados
-- Monitoramento de Riscos
-- Compliance
 
 ---
 
-# 📈 Estatísticas GitHub
+## 📈 Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maristelacosta&show_icons=true&theme=tokyonight)
+### 📊 BI Analytics Dashboard
+Dashboard para monitoramento de indicadores de desempenho utilizando Python, SQL, Pandas e Streamlit.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maristelacosta&layout=compact&theme=tokyonight)
+### 🛒 E-commerce Analytics
+Análise de vendas, clientes, faturamento e indicadores estratégicos de negócios digitais.
 
----
+### 📦 Supply Chain Analytics
+Monitoramento logístico, controle de estoque e análise da cadeia de suprimentos.
 
-# 🎯 Áreas de Interesse
+### 🔐 LGPD Compliance Analytics
+Painel para acompanhamento de indicadores de conformidade e governança de dados.
 
-✅ Data Analytics
-
-✅ Business Intelligence
-
-✅ Power BI
-
-✅ SQL
-
-✅ Python
-
-✅ Inteligência Artificial
-
-✅ Data Governance
-
-✅ Big Data
-
-✅ Machine Learning
-
-✅ Cibersegurança
+### 💰 Dashboard Financeiro
+Visualização de receitas, custos, margem e indicadores financeiros para tomada de decisão.
 
 ---
 
-# 📚 Atualmente Estudando
+## 🎓 Formação
 
-- Inteligência Artificial para Negócios
-- Machine Learning
-- Engenharia de Dados
-- Big Data Analytics
-- Governança e Segurança de Dados
+- Bacharelado em Sistemas de Informação
+- MBA em Business Intelligence, Big Data e Analytics
+- MBA em Cibersegurança e Proteção de Dados
 
 ---
 
-# 📫 Vamos nos conectar?
+## 📫 Contato
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/maristela-costa
 
-www.linkedin.com/in/maristela-aparecida-costa
+🌐 Portfólio: https://maristela-portfolio-self.vercel.app
 
-💻 GitHub
-
-https://github.com/Maristelacosta
+📍 Curitiba - PR
 
 ---
 
-## ⭐ Frase Profissional
+### 📊 Foco Profissional
 
-> Transformando dados em insights, insights em conhecimento e conhecimento em decisões estratégicas.
+Analista de Dados • Business Intelligence • Power BI • SQL • Python • Analytics
